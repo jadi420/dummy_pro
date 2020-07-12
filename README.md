@@ -1,8 +1,8 @@
-Download this repositry
-create database using phpadmin 
-DatabaseName  ----> dummy_test
-then 
-Run following Command:
-php artisan migrate
-php artisan db:seed
-php artisan serve
+Download this repositry <br>
+create database using phpadmin <br>
+DatabaseName  ----> dummy_test <br>
+then <br>
+Run following Command:<br>
+php artisan migrate<br>
+php artisan db:seed<br>
+php artisan serve<br>
